@@ -155,18 +155,17 @@ Set `displayMediumBlogs` to true or false in portofolio.js to display fetched Me
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all I'm Saad",
-  subTitle: emoji("A passionate Full Stack Software Developer 🚀"),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  title: "Hi all I'm Thomas",
+  subTitle: emoji("A Senior Blockchain Engineer 🚀"),
+  resumeLink: "https://drive.google.com/file/d/14jDes9gQysra0ql_4I1MzO-M31cyd4Z9/view"
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  github: "https://github.com/thr2240",
+  gmail: "thomasr2240@gmail.com",
+  telegram: "https://t.me/thomasr2240",
+  discord: "Thomas Ross#4861"
 };
 
 
