@@ -37,6 +37,9 @@ const socialMediaLinks = {
   gmail: "thomasr2240@gmail.com",
   telegram: "https://t.me/thomasr2240",
   discord: "Thomas Ross#4861",
+  gitlab: "https://github.com/PhantomTop",
+  skype: " live:.cid.10e7a5d2bfd55a04",
+  
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -62,8 +65,8 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "Rust",
-      fontAwesomeClassname: "fab fa-Rust"
+      skillName: "html5",
+      fontAwesomeClassname: "fab fa-html5"
     },
     {
       skillName: "css3",
@@ -141,9 +144,13 @@ const educationInfo = {
 const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
-    {
-      Stack: "Blockchain/Design", //Insert stack or technology you have experience in
+   {
+      Stack: "Cosmos chain development", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
+    },
+    {
+      Stack: "ETH, Solana, Cardano, Aptos, Sui chain development",
+      progressPercentage: "80%"
     },
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
@@ -356,7 +363,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+16188676387",
+  number: "+1-61886763",
   email_address: "thomasr2240@gmail.com"
 };
 
